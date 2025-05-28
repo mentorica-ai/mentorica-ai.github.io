@@ -1,11 +1,10 @@
 ---
 title: "Analytics, Assemble! Kickoff a Business Analytics Course with Mentorica in Three Steps"
-excerpt: "In this blog post, we will show you how to "
+excerpt: "This blog post walks you through the simple process of using Mentorica for your business analytics courses."
 author: "Mochen Yang"
 image: 
   path: /images/2025-05-27-Analytics-Assemble/header.png
   thumbnail: /images/2025-05-27-Analytics-Assemble/thumbnail.png
-  caption: "Image created by ChatGPT"
 categories:
   - Use Case
 ---

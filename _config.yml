@@ -18,7 +18,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Mentorica.AI Blog"
-description: "It really is the best."
+description: "Sharing use cases, tutorials, and best practices for teaching with Mentorica.AI"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 url: "https://mentorica-ai.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
