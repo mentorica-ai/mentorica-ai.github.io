@@ -1,10 +1,10 @@
 ---
 title: "Analytics, Assemble! Kickoff a Business Analytics Course with Mentorica in Three Steps"
-excerpt: "This blog post walks you through the simple process of using Mentorica for your business analytics courses."
+excerpt: "This article walks you through the simple process of using Mentorica for your business analytics courses."
 author: "Mochen Yang"
 image: 
-  path: /images/2025-05-27-Analytics-Assemble/header.webp
-  thumbnail: /images/2025-05-27-Analytics-Assemble/thumbnail.png
+  path: /images/2025-05-27-analytics-assemble/header.webp
+  thumbnail: /images/2025-05-27-analytics-assemble/thumbnail.png
 categories:
   - Use Case
 ---
