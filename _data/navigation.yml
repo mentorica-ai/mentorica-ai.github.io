@@ -2,6 +2,8 @@
 
 - title: All Posts
   url: /
+- title: FAQ
+  url: https://mentorica.ai/frequently-asked-questions
 # - title: All Posts
 #   url: /posts/
 # - title: Categories
@@ -12,5 +14,3 @@
 #   url: /recipes/
 # - title: Search
 #   url: /search/
-# - title: External Page
-#   url: https://the-page.com/you-want-to-link-to.html

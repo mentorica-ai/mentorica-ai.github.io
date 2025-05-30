@@ -3,7 +3,25 @@
 
 Mochen Yang:
   name: Mochen Yang
-  picture: /images/people/mochen.jpg
+  picture: /images/people/mochen.webp
+  # twitter: "@billyrick"
+  # links:
+  #   - title: Twitter
+  #     url: https://twitter.com/billyrick
+  #     icon: fab fa-twitter-square
+
+Ravi Bapna:
+  name: Ravi Bapna
+  picture: /images/people/ravi.webp
+  # twitter: "@billyrick"
+  # links:
+  #   - title: Twitter
+  #     url: https://twitter.com/billyrick
+  #     icon: fab fa-twitter-square
+
+Akhmed Umyarov:
+  name: Akhmed Umyarov
+  picture: /images/people/akhmed.webp
   # twitter: "@billyrick"
   # links:
   #   - title: Twitter
