@@ -6,7 +6,7 @@ image:
   path: /images/2025-05-27-analytics-assemble/header.webp
   thumbnail: /images/2025-05-27-analytics-assemble/thumbnail.png
 categories:
-  - Use Case
+  - Use-Case
 ---
 
 Suppose you are teaching "Introduction to Business Analytics" to a professional audience (e.g., MBAs or EMBAs). The diverse set of student background often make it hard to deliver personalized learning experiences to each student. As one example, students from a tech-savvy background would likely embrace technical content but may need more support in managerial insights, whereas students from a more managerial-oriented background may not know how to code at all but still would like to learn data-driven decision-making. A traditional design of the course often needs to spend a few weeks just to teach students the basics of programming (which make some bored and others overwhelmed). In this blog, we will show you how Mentorica AI allows you to easily build a business analytics course that "meets each student where they are".
