@@ -21,7 +21,9 @@ The first step is to create your course in the instructor portal, which will bec
 
 It is often more effective to teach business analytics topics not as abstract concepts and algorithms but as concrete business problems rooted in practice. This is why Mentorica has [curated a comprehensive set of AI-powered activities](https://mentorica.ai/for-instructors) for you to choose from. Each activity covers an important topic in business analytics and consists of (1) description of a concrete business problem, (2) the associated dataset, and (3) an AI agent specifically built to provide learning support for this problem. The AI agent has access to the problem description file as well as the dataset, and can answer questions about the business problem, write and execute code to carry out various analyses, and assist students in other tasks related to the focal problem (e.g., brainstorm managerial recommendations after running some analyses). Depending on your pedagogical design, you can assign these activities as in-class practices, case discussions, or homework assignments.
 
-After adding one or more AI activities to your course, you can further configure them (e.g., start / end dates and visibility options) and assign them to individual students or student teams. Please see [TBD](TBD) for more details on AI activity configurations. 
+![select case](../../images/2025-05-27-analytics-assemble/select_case.webp)
+
+After adding one or more AI activities to your course, you can further configure them (e.g., start / end dates and visibility options) and assign them to individual students or student teams. Please see [this tutorial](https://blog.mentorica.ai/tutorial/instructor-portal/) for more details on AI activity configurations. 
 
 We are also adding support to build customized activities with your own materials. Stay tuned!
 
