@@ -1,6 +1,8 @@
 # Sample site navigation bar links
 
-- title: All Resources
+- title: Mentorica.AI
+  url: https://mentorica.ai
+- title: All Blogs
   url: /
 - title: FAQ
   url: https://mentorica.ai/frequently-asked-questions
