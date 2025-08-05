@@ -17,20 +17,20 @@ If you haven't already, please register for a free instructor account on our [in
 
 All AI activities can be managed under the "My Dashboard" page of your course. Take the "Global Bank" case as an example (see screenshot below), you have sevearl configuration options:
 - The "ENABLED/DISABLED" toggle: this controls the visibility of this AI activity for your students. Switching an AI activity to the "Enabled" state would make that AI activity immediately available and visible to your students. Please note that a activity will automatically be toggled to the "Enabled" state on the specified start date of your activity and to the "Disabled" state on the specified end date.
-- The "EDIT" button: The pop-up window is where you can specify the desired start and end dates for this AI activity. For our pre-configured AI activities, you won't be able to modify the name or description.
+- The "EDIT" button: The pop-up window is where you can specify the desired start and end dates for this AI activity, as well as whether it should be assigned to individual students or student teams. For our pre-configured AI activities, you won't be able to modify the name or description.
 - The "DELETE" button allows you to delete an AI activity altogether.
 - Moerover, directly clicking on the AI activity card will take you to your private chatting channel with that activity, where you can interact with the AI agent for testing and demo purposes.
 
 ![activity config](../../images/2025-06-02-instructor-portal/activity_config.webp)
 
-We are also adding support to build customized activities with your own materials. Stay tuned!
+If we have deployed custom AI activities for your course, they can be found in the same place as Mentorica's curated AI activities. Your custom AI activities are only visible to you. 
 
 # Assign an AI Activity
 
 The first step to assign an AI activity is to enter your student roster into the course, which you can do under the "Students" tab. You can either enter students manually or upload a csv file with the following fields:
 - Email: The email address that a student intends to use (e.g., the student's University email). **IMPORTANT**: our system uses the email address as the **unique identifier** for a student. Once entered, the student has to use that email address when logging into the student portal, and you cannot edit it. If a student wants to use a different email than the one already in the system, you need to delete and then re-enter that student under the desired email address.
 - Name: Last name and first name, separated by a comma. E.g., "Yang, Mochen"
-- Group: If you'd like assign AI activities to student groups, you can specify the group names here. This field is **optional** -- if you leave it empty, AI activities will be assigned to each student individually.
+- Group: If you'd like assign AI activities to student groups, you can specify the group names here. This field is **optional** -- if you leave it empty, AI activities will be assigned to each student individually. If you have specified a group set, all AI activities will be assigned at the group level by default, unless you explicitly toggle the "Individual Activity" control for the AI activities that you wish to keep at individual level.
 
 Related to entering student information, you can also invite co-instructors or teaching assistants to your course. This is done under the "Instructors" tab, which has a very similar interface as the "Student" tab. The only difference is that you cannot specify any grouping for co-instructors or TAs -- AI activities will be assigned to each instructor or TA individually.
 
