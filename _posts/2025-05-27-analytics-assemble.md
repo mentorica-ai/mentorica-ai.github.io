@@ -15,7 +15,9 @@ If you haven't already, please register for a free instructor account on our [in
 
 # Step 1: Create a Course
 
-The first step is to create your course in the instructor portal, which will become the one-stop location for you to configure AI agents, manage students, monitor activities, etc. Creating a course is easy, simply go to "My Classes" on the top right navigation, click on "Add New Class", and the fill in your basic course information.
+The first step is to create your course in the instructor portal, which will become the one-stop location for you to configure AI agents, manage students, monitor activities, etc. Creating a course is easy, simply go to "My Classes" on the top right navigation, click on "Add New Class", and the fill in your basic course information. 
+
+If you are not yet ready to launch an actual course, the "DEMO101" course available to you upon account creation is a good place to try things out (and it's free).
 
 # Step 2: Pick the AI Activities
 

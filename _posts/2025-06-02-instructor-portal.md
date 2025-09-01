@@ -20,14 +20,14 @@ All AI activities can be managed under the "My Dashboard" page of your course. T
 - The "EDIT" button: The pop-up window is where you can specify the desired start and end dates for this AI activity, as well as whether it should be assigned to individual students or student teams. For our pre-configured AI activities, you won't be able to modify the name or description.
 - The "DELETE" button allows you to delete an AI activity altogether.
 - Moerover, directly clicking on the AI activity card will take you to your private chatting channel with that activity, where you can interact with the AI agent for testing and demo purposes.
+- If we have deployed custom AI activities for your course, they can be found in the same place as Mentorica's curated AI activities. Your custom AI activities are only visible to you.
 
 ![activity config](../../images/2025-06-02-instructor-portal/activity_config.webp)
 
-If we have deployed custom AI activities for your course, they can be found in the same place as Mentorica's curated AI activities. Your custom AI activities are only visible to you. 
 
 # Assign an AI Activity
 
-The first step to assign an AI activity is to enter your student roster into the course, which you can do under the "Students" tab. You can either enter students manually or upload a csv file with the following fields:
+The first step to assign an AI activity is to enter your student roster into the course, which you can do under the "Students" tab. You can either enter students manually or import a csv file (template can be found next to the import button) with the following fields:
 - Email: The email address that a student intends to use (e.g., the student's University email). **IMPORTANT**: our system uses the email address as the **unique identifier** for a student. Once entered, the student has to use that email address when logging into the student portal, and you cannot edit it. If a student wants to use a different email than the one already in the system, you need to delete and then re-enter that student under the desired email address.
 - Name: Last name and first name, separated by a comma. E.g., "Yang, Mochen"
 - Group: If you'd like assign AI activities to student groups, you can specify the group names here. This field is **optional** -- if you leave it empty, AI activities will be assigned to each student individually. If you have specified a group set, all AI activities will be assigned at the group level by default, unless you explicitly toggle the "Individual Activity" control for the AI activities that you wish to keep at individual level.
