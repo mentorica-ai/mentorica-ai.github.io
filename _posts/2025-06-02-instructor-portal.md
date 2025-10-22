@@ -15,7 +15,7 @@ If you haven't already, please register for a free instructor account on our [in
 
 # Configure an AI Activity
 
-All AI activities can be managed under the "My Dashboard" page of your course. Take the "Global Bank" case as an example (see screenshot below), you have sevearl configuration options:
+All AI activities can be managed under the "Class Details" page for a given course. Take the "Global Bank" case as an example (see screenshot below), you have several configuration options:
 - The "ENABLED/DISABLED" toggle: this controls the visibility of this AI activity for your students. Switching an AI activity to the "Enabled" state would make that AI activity immediately available and visible to your students. Please note that a activity will automatically be toggled to the "Enabled" state on the specified start date of your activity and to the "Disabled" state on the specified end date.
 - The "EDIT" button: The pop-up window is where you can specify the desired start and end dates for this AI activity, as well as whether it should be assigned to individual students or student teams. For our pre-configured AI activities, you won't be able to modify the name or description.
 - The "DELETE" button allows you to delete an AI activity altogether.
@@ -24,6 +24,19 @@ All AI activities can be managed under the "My Dashboard" page of your course. T
 
 ![activity config](../../images/2025-06-02-instructor-portal/activity_config.webp)
 
+
+# Chat with AI
+
+Often times, you want to have a chat with an AI agent in a case to test how it behaves or as a demo to your students. You can do so without leaving the instructor portal. The "Class Deployment" tab (top right corner) is designed exactly for this purpose. It allows you to view your own course and chat with the AI activities you have enabled _as if_ you are a student (similar to the "Student View" feature on Canvas). 
+
+![class deployment](../../images/2025-06-02-instructor-portal/class_deployment.webp)
+
+If you click on the info icon (🛈) right next to channel name, you will be able to access the learning objective, case description, teaching note, and supplemental materials (e.g., the dataset associated with the case). The teaching note is only visible to you (as the instructor), whereas the other case materials are also available to your students (in their student portal).
+
+The chat interface also has a "Recover AI" button and a "Print" button.
+
+- The **"Recover AI" button**: sometimes, the AI agent might get "stuck" on a request due to glitches in OpenAI's service. For example, the AI agent may tell you that "it has lost access to the data or coding environment" or even ask you to "upload the data files" (which you do not need to do). We have already implemented automatic recovery mechanisms to reduce disruptions to your learning experiences. In rare instances when automatic recovery does not address the problem, you can click this button to issue a manual recovery. This will reset the underlying OpenAI Assistant, re-install required data files and re-implant the memory of this conversation.
+- The **"Print" button** will export all the historical messages in the current channel into a PDF file. This allow you to save your conversations with the AI.
 
 # Assign an AI Activity
 
