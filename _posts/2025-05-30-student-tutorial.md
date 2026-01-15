@@ -29,7 +29,7 @@ The student portal has the following key components:
 ![student portal](../../images/2025-05-30-student-tutorial/student_portal.webp)
 
 - **Course selector** (dropdown menu on the top right corner) allows you to switch between different courses that are using Mentorica;
-- Choose a channel from the list of channels to start chatting. Different channels are created by your instructor for different purposes. For example:
+- **Channel List**: choose a channel from the list of channels to start chatting. Different channels are created by your instructor for different purposes. For example:
     - The "Info" channel is typically used as a common place for the instructor to send announcements. The "Info" channel does not have AI agents.
     - You may have one or more AI activity channels where you can interact with AI agents specifically designed to provide support for different activities / cases. For instance, if you (either individually or as a member of a team) are working on a case called “Global Bank”, then you will see a channel named “Global Bank”, where you can interact with an AI agent designed for the Global Bank case. 
     - If an AI activity channel is set up to be used by a team, then the name of all team members will show up on the left. If you do not see this, it means you are the only student in the channel.
@@ -42,6 +42,7 @@ To send a message, type it in the chat input box and hit “Send” or Enter on 
 
 # Additional Functions
 
-On the top right corner of the student portal, you will find two buttons that provide useful functions for interacting with the AI.
-- The **"Recover AI" button**: sometimes, the AI agent might get "stuck" on a request due to glitches in OpenAI's service. For example, the AI agent may tell you that "it has lost access to the data or coding environment" or even ask you to "upload the data files" (which you do not need to do). We have already implemented automatic recovery mechanisms to reduce disruptions to your learning experiences. In rare instances when automatic recovery does not address the problem, you can click this button to issue a manual recovery. This will reset the underlying OpenAI Assistant, re-install required data files and re-implant the memory of this conversation.
-- The **"Print" button** will export all the historical messages in the current channel into a PDF file. This allow you to save your conversations with the AI.
+The student portal provides a few other useful functions for learning and interacting with the AI.
+- The **info icon (🛈)** (right next to channel name): click on it to access case learning objective, as well as downloadable case description and supplemental materials (e.g., the dataset associated with the case).
+- The **"Recover AI" button** (top right corner): sometimes, the AI agent might get "stuck" on a request due to glitches in OpenAI's service. For example, the AI agent may tell you that "it has lost access to the data or coding environment" or even ask you to "upload the data files" (which you do not need to do). We have already implemented automatic recovery mechanisms to reduce disruptions to your learning experiences. In rare instances when automatic recovery does not address the problem, you can click this button to issue a manual recovery. This will reset the underlying OpenAI Assistant, re-install required data files and re-implant the memory of this conversation.
+- The **"Print" button** (top right corner) will export all the historical messages in the current channel into a PDF file. This allow you to save your conversations with the AI.
