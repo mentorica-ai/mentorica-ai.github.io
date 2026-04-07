@@ -27,7 +27,7 @@ All AI activities can be managed under the "Class Details" page for a given cour
 
 # Chat with AI
 
-Often times, you want to have a chat with an AI agent in a case to test how it behaves or as a demo to your students. You can do so without leaving the instructor portal. The "Class Deployment" tab (top right corner) is designed exactly for this purpose. It allows you to view your own course and chat with the AI activities you have enabled _as if_ you are a student (similar to the "Student View" feature on Canvas). 
+Often times, you want to have a chat with an AI agent in a case to test how it behaves or as a demo to your students. You can do so without leaving the instructor portal. The "Student View" tab (top right corner) is designed exactly for this purpose. It allows you to view your own course and chat with the AI activities you have enabled _as if_ you are a student (similar to the "Student View" feature on Canvas). 
 
 ![class deployment](../../images/2025-06-02-instructor-portal/class_deployment.webp)
 
