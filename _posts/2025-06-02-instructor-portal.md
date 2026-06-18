@@ -50,3 +50,9 @@ Related to entering student information, you can also invite co-instructors or t
 # Monitor Student Activities
 
 Under the "Channels" tab, you will be able to see the chatting channels for yourself (and any other co-instructors or TAs) as well as all your students. Simply click on a row to see what a student has been doing with an AI activity. Please be aware that with many students / AI activities, there will be a large number of channels under this tab (e.g., a course with 50 students and 2 individual-level AI activities would already create 100 chat channels). You can easily filter channels by channel name, group, or student name, using the filter function embedded in the table header. We will roll out some AI-driven reporting tools (e.g., channel-level summaries) in the near future!
+
+# Get Usage Statistics and Learning Insights
+
+Under the "Analytics" tab, you can view the current usage statistics of your course, including total number of messages, average number of messages per channel or per user, as well as a bar chart showing usage over time.
+
+Furthermore, we also offer an AI-based summary for each channel, which systematically evaluate student prompts in that channel on several dimensions of learning effectiveness. To obtain an AI summary, go to the "Channels" tab, locate the row for the target channel, and click on the "Generate channel report" icon at the end of that row. Generating a channel report may take some time, especially if there are a large number of messages in the channel. Once completed, you can view the channel report by clicking on the magnifying glass icon.
